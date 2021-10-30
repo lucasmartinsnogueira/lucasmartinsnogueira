@@ -1,4 +1,4 @@
-## Oiii eu sou O lucas Martins, amante de tecnologia, design e programação!
+## Oiii eu sou o Lucas Martins, amante de tecnologia, design e programação!
 <div align="center">
   <a href="https://github.com/lucasmartinsnogueira">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasmartinsnogueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
